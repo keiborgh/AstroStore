@@ -1,0 +1,17 @@
+# makkelijk
+planeet
+maan
+ster
+zon
+
+# gemiddeld
+sterrenstelsel
+kometen
+meteoor
+ruimtestation
+
+# moeilijk
+zonnestelsel
+astronaut
+satelliet
+zwaartekracht
